@@ -62,6 +62,6 @@ change below file and code with your
 
 /templates/post.ejs line no:33
 
-if like it please leave review and thumbsup :-0
+if you like it please leave review and give thumbs-up :-0
 
 
